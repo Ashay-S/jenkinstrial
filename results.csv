@@ -1,2 +1,2 @@
 name,errors,failures,skipped,tests,time,timestamp,hostname,testcase
-pytest,0,0,0,1,0.015,2024-08-09T22:22:16.291934+05:30,LAPTOP-6R62JES2,
+pytest,0,0,0,1,0.02,2024-08-09T22:22:31.381950+05:30,LAPTOP-6R62JES2,
